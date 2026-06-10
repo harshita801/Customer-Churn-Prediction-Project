@@ -171,6 +171,10 @@ Features:
 
 ---
 
+## Deployment Link 
+https://customer-churn-prediction-project-xtqbshprjuzjdykkiycxnh.streamlit.app/
+
+
 ## 📁 Project Structure
 
 ```text
