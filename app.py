@@ -1,17 +1,6 @@
 import streamlit as st
 import pandas as pd
 import joblib
-
-st.write("App started")
-
-import joblib
-
-st.write("Joblib imported")
-
-model = joblib.load("churn_model.pkl")
-
-st.write("Model loaded successfully")
-
 # Load model
 model = joblib.load("churn_model.pkl")
 
