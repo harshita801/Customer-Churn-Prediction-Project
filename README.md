@@ -16,6 +16,11 @@ Early identification of customers likely to churn helps businesses take proactiv
 
 ---
 
+## Deployment Link 
+https://customer-churn-prediction-project-xtqbshprjuzjdykkiycxnh.streamlit.app/
+
+---
+
 ## 📂 Dataset
 
 Dataset: IBM Telco Customer Churn Dataset
@@ -169,11 +174,7 @@ Features:
 * Real-time predictions
 * Churn probability estimation
 
----
-
-## Deployment Link 
-https://customer-churn-prediction-project-xtqbshprjuzjdykkiycxnh.streamlit.app/
-
+--- 
 
 ## 📁 Project Structure
 
